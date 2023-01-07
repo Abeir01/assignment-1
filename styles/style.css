@@ -172,14 +172,19 @@ color: rgb(117,
 }
 
 .footer-main{
+    color: aliceblue;
     display: flex;
     margin-left: 200px;
     margin-right: 200px;
     justify-content: space-between;
+    background-color: rgb(39, 38, 38);
+    margin-bottom: 500px;
 }
 
 .footer-longtext{
     margin-right: 300px;
+    background-color: rgb(29, 27, 27);
+    margin-bottom: 20px;
 }
 
 .subscribe{
